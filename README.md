@@ -1,10 +1,8 @@
-
 # Demo :movie_camera:
 
 ## View live preview [here](https://nehanooka.netlify.app/)
 
-![](./public/image/screen.png)
-
+![](./public/image/screen.gif)
 
 ---
 
