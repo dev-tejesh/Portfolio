@@ -4,7 +4,7 @@ export const educations = [
     title: "Masters Degree",
     duration: "2022 - 2024",
     institution: "University of Maryland, Baltimore County",
-    gpa: "9.85/10",
+    gpa: "GPA: 4.0/4.0",
     image: '/png/UMBC.jpg'
   },
   {
@@ -12,7 +12,7 @@ export const educations = [
     title: "Bachelors Degree",
     duration: "2017 - 2021",
     institution: "Uka Tarsadia University",
-    gpa: "4.0/4.0",
+    gpa: "CGPA: 9.85/10",
     image: '/png/utu.png'
   }
 

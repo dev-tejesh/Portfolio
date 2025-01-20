@@ -222,3 +222,13 @@ npm install -g next
 This installs Next.js globally
 
 then do the usual `npm run dev`
+
+# After working on it locally, the steps to pull and push to repo:
+
+git pull origin master
+
+git add .
+
+git commit -m "message"
+
+git push origin master
