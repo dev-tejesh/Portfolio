@@ -33,6 +33,28 @@ body {
   --index: 4;
 }
 
+/* Global CSS or Tailwind Styles */
+.video-card {
+  background-color: #000000; /* dark background for the card */
+  transition: all 0.3s ease-in-out;
+  transform: scale(1);
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.video-card:hover {
+  transform: scale(1.05); /* Slightly increase size on hover */
+  box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.2); /* Shadow on hover */
+}
+
+button {
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #4c6ef5; /* Highlight on hover for the buttons */
+  transform: scale(1.05); /* Slight button scale on hover */
+}
+
 .sticky-card {
   // padding-top: calc(var(--index) * 2.5rem);
   top: calc(var(--index) * 4rem);

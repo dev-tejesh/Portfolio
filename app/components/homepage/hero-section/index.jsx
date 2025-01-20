@@ -90,7 +90,7 @@ function HeroSection() {
           </div>
 
         </div>
-        <div className="order-1 lg:order-2 bg-[#000000] border-[#1b2c68a0] relative rounded-lg">
+        <div className="order-1 lg:order-2 bg-[#2F2F2F] border-[#1b2c68a0] relative rounded-lg">
           <div className="flex flex-row">
             <div className="h-[1px] w-full bg-gradient-to-r from-transparent via-pink-500 to-violet-600"></div>
             <div className="h-[1px] w-full bg-gradient-to-r from-violet-600 to-transparent"></div>
