@@ -30,7 +30,7 @@ export const experiences = [
     id: 4,
     title: 'Software Engineer',
     company: "La Net Team Software Solutions",
-    duration: "(Aug 2020- Sept 2021)",
+    duration: "(Jan 2021 - Sept 2021)",
     tools: ['React Native', 'TypeScript', 'Redux', 'AWS Amplify', 'AWS CloudWatch', 'AWS Pinpoint', 'Real-time Tracking', 'Multilingual Support'],
     image: '/png/lanet.jpeg',
     description: 'Designed and built a ridesharing application using React Native and TypeScript, integrating AWS services like Amplify, CloudWatch, and Pinpoint for efficient data management. Developed a restaurant application with real-time order tracking, interactive menus, and multilingual support, reducing order processing time by 30%.'
