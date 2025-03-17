@@ -145,7 +145,7 @@ export const personalData = {
   facebook: "https://www.facebook.com/NehaNooka/",
   linkedIn: "https://www.linkedin.com/in/neha-nooka/",
   twitter: "https://twitter.com/nehanooka",
-  stackOverflow: "https://stackoverflow.com/users/29148012/neha-nooka",
+//   stackOverflow: "https://stackoverflow.com/users/29148012/neha-nooka",
   leetcode: "https://leetcode.com/u/nehanooka/",
   devUsername: "nehanooka",
   resume:

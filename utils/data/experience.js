@@ -1,39 +1,52 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer',
-    company: "Signarama",
-    duration: "(Aug 2024 - Present)",
-    tools: ['Python', 'Dialogflow', 'Trello', 'Automation', 'Task Management'],
-    image: '/png/signarama.png',
-    description: 'Developed a chatbot using Python and Dialogflow for internal use, improving onboarding and training efficiency by 20%. Designed and implemented automation solutions for Trello boards to streamline task management, resulting in a 35% increase in efficiency.'
+    title: "Software Developer Intern",
+    company: "Superstars",
+    duration: "(Jan 2025 - Present)",
+    tools: ["Flutter", "Node.js", "Express.js", "REST APIs", "GIT"],
+    image: "/png/supestarslogo.png",
+    description:
+      "Working as a full-stack developer, building Flutter-based mobile frontend and Node.js backend. Designing and developing scalable REST APIs to support seamless communication between the frontend and backend. Collaborating with the Mobile Team to improve performance and add features to a video-centric professional network.",
   },
   {
     id: 2,
-    title: "Data Science Researcher and Teaching Assistant",
-    company: "University of Maryland",
-    duration: "(May 2023 - Nov 2024)",
-    tools: ['Excel', 'Python', 'Tableau', 'Power BI', 'ETL', 'Data Visualization', 'Natural Language Processing', 'Mentorship'],
-    image: '/png/UMBC.jpg',
-    description: 'Managed 30+ datasets for the Center for Women in Tech assessment, generating 10+ reports and 30+ visualizations using Tableau and Power BI. Mentored 50 students in Natural Language Processing, providing tutoring and feedback. Employed advanced Excel functions and Python for ETL processes and data visualization.'
+    title: "Graduate Teaching Assistant",
+    company: "Northern Illinois University",
+    duration: "(Aug 2024 - Present)",
+    tools: ["C++", "Linux", "Database(MYSQL)", "Mentorship"],
+    image: "/png/niu_logo.png",
+    description:
+      "Mentored students in CSCI 501 (C++) and CSCI 466 (Databases), improving comprehension by 30%. Participated in conducting weekly review sessions and seminars to enrich students understanding.",
   },
   {
     id: 3,
-    title: 'Software Engineer',
-    company: "Accenture",
-    duration: "(Sept 2021- Aug 2022)",
-    tools: ['ASP.NET','Core MVC', 'MySQL', 'Jenkins', 'CI/CD', 'Unit Testing', 'Performance Optimization', 'Troubleshooting'],
-    image: '/png/accenture.png',
-    description: 'Redesigned an internal time tracker application using ASP.NET Core MVC, improving user experience and increasing reporting efficiency by 25%. Optimized application performance with unit testing and CI/CD pipelines using Jenkins, resulting in a 15-18% increase in page load times. Utilized advanced debugging and automated testing to achieve a 20% faster page load time.'
+    title: "Software Engineer",
+    company: "Earnest Data Analytics Private Limited",
+    duration: "(Apr 2023- May 2023)",
+    tools: ["Flutter", "Amplify", "Getx", "Deployment", "Unit Testing"],
+    image: "/png/earnest_data_analytics_logo.jpeg",
+    description:
+      "Integrated new UI designs for existing applications to improve the overall user experience. Efficiently integrated Rest APIs for BachatCards and BenefitWise, ensuring smooth data flow and robust functionality. Managed deployment on the Play Store for BachatCards and BenefitWise handling multiple versions, bug fixes.",
   },
   {
     id: 4,
-    title: 'Software Engineer',
-    company: "La Net Team Software Solutions",
-    duration: "(Jan 2021 - Sept 2021)",
-    tools: ['React Native', 'TypeScript', 'Redux', 'AWS Amplify', 'AWS CloudWatch', 'AWS Pinpoint', 'Real-time Tracking', 'Multilingual Support'],
-    image: '/png/lanet.jpeg',
-    description: 'Designed and built a ridesharing application using React Native and TypeScript, integrating AWS services like Amplify, CloudWatch, and Pinpoint for efficient data management. Developed a restaurant application with real-time order tracking, interactive menus, and multilingual support, reducing order processing time by 30%.'
+    title: "Software Developer",
+    company: "Galant Technologies",
+    duration: "(Sep 2022 - Mar 2023)",
+    tools: [
+      "Flutter",
+      "Javascript",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "Dart",
+      "Multilingual Support",
+      "Mongodb",
+      "Firebase",
+    ],
+    image: "/png/Galant_Logo.png",
+    description:
+      "Developed the Health Studio and padel apps from scratch, which has achieved over 1,000+ downloads on the Play Store. Managed the complete development process and added language localizations. Also designed and followed custom MVC architecture in the project.",
   },
-]
-
+];

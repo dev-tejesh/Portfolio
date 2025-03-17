@@ -33,6 +33,7 @@ import illustrator from '../app/assets/svg/skills/illustrator.svg';
 import ionic from '../app/assets/svg/skills/ionic.svg';
 import java from '../app/assets/svg/skills/java.svg';
 import javascript from '../app/assets/svg/skills/javascript.svg';
+import newjavascript from "../app/assets/svg/skills/newjavascript.svg"
 import julia from '../app/assets/svg/skills/julia.svg';
 import kotlin from '../app/assets/svg/skills/kotlin.svg';
 import lightroom from '../app/assets/svg/skills/lightroom.svg';
@@ -44,6 +45,7 @@ import microsoftoffice from '../app/assets/svg/skills/microsoftoffice.svg';
 import mongoDB from '../app/assets/svg/skills/mongoDB.svg';
 import mysql from '../app/assets/svg/skills/mysql.svg';
 import nextJS from '../app/assets/svg/skills/nextJS.svg';
+import nodeJS from "../app/assets/svg/skills/nodejs.svg";
 import nginx from '../app/assets/svg/skills/nginx.svg';
 import numpy from '../app/assets/svg/skills/numpy.svg';
 import nuxtJS from '../app/assets/svg/skills/nuxtJS.svg';
@@ -106,7 +108,9 @@ export const skillsImage = (skill) => {
     case 'angular':
       return angular;
     case 'javascript':
-      return javascript;
+      return newjavascript;
+    case 'node js':
+      return nodeJS
     case 'next js':
       return nextJS;
     case 'nuxt js':

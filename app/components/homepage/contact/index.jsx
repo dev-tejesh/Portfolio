@@ -67,18 +67,18 @@ function ContactSection() {
                 size={48}
               />
             </Link>
-            <Link target="_blank" href={personalData.stackOverflow}>
+            {/* <Link target="_blank" href={personalData.stackOverflow}>
               <FaStackOverflow
                  className="bg-[#F48024] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-white cursor-pointer"
                 size={48}
               />
-            </Link>
-            <Link target="_blank" href={personalData.facebook}>
+            </Link> */}
+            {/* <Link target="_blank" href={personalData.facebook}>
               <FaFacebook
                 className="bg-[#1877F2] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-white cursor-pointer"
                 size={48}
               />
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>

@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Neha Nooka- Software Developer",
+  title: "Tejesh Portfolio",
   description:
-    "This is the portfolio of Neha Nooka. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "This is the portfolio of Tejesh. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
 };
 
 export default function RootLayout({ children }) {
@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
           {children}
           <ScrollToTop />
         </main>
-        <Footer />
+        {/* <Footer /> */}
       </body>
       <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM} />
     </html>
