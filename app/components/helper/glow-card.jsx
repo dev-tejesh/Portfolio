@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect } from 'react';
+import dynamic from "next/dynamic";
 
 const GlowCard = ({ children , identifier}) => {
   useEffect(() => {
