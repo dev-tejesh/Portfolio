@@ -1,11 +1,11 @@
 export const personalData = {
   name: "TEJESH REDDY",
-  profile: "/profile.jpeg",
+  profile: "/profile2.jpeg",
   designation: "Full-Stack Software Developer",
   description:
     "My name is TEJESH REDDY THIPPAKKAGARI, and I am a passionate and dedicated programmer with a strong drive for learning and exploring new technologies. I am a quick learner with a self-motivated approach, always eager to solve challenging problems and create impactful solutions.",
   description2:
-    "As a passionate and results-driven Full-Stack Product Engineer, I bring over two years of experience designing, developing, and deploying robust web and mobile applications. I thrive on transforming complex challenges into scalable and efficient solutions. With a strong foundation in backend development, frontend innovation, and cloud integrations, I’ve delivered impactful projects ranging from food delivery platforms to blog applications.  I take pride in owning every stage of the product lifecycle, from ideation to deployment, ensuring optimal user experiences. I'm open to full-time opportunities and internships where I can contribute my skills and grow professionally.",
+    "As a passionate and results-driven Full-Stack Product Engineer, I bring over two years of experience designing, developing, and deploying robust web and mobile applications. With a strong foundation in backend development, frontend innovation, and cloud integrations, I’ve delivered impactful projects ranging from food delivery platforms to blog applications. I'm open to full-time opportunities and internships where I can contribute my skills and grow professionally.",
   email: "tejeshreddy250@gmail.com",
   phone: "+17792171437",
   address: "Chicago IL, USA (Open to relocation)",
@@ -17,5 +17,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/devtejesh/",
   devUsername: "tejesh",
   resume:
-    "https://drive.google.com/file/d/16ACTsZtrnYVR_jCJcIidT2P7fDNV1GMp/view",
+    "https://drive.google.com/file/d/1GVHKAxd0Oc3PW8PwwLsEJGnKcyGL-bPc/view?usp=sharing",
 };

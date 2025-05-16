@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: "Software Developer Intern",
     company: "Superstars",
-    duration: "(Jan 2025 - Present)",
+    duration: "(Jan 2025 - May 2025)",
     tools: ["Flutter", "Node.js", "Express.js", "REST APIs", "GIT"],
     image: "/png/supestarslogo.png",
     description:
@@ -13,7 +13,7 @@ export const experiences = [
     id: 2,
     title: "Graduate Teaching Assistant",
     company: "Northern Illinois University",
-    duration: "(Aug 2024 - Present)",
+    duration: "(Aug 2024 - May 2025)",
     tools: ["C++", "Linux", "Database(MYSQL)", "Mentorship"],
     image: "/png/niu_logo.png",
     description:
