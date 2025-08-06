@@ -1,9 +1,9 @@
 export const personalData = {
-  name: "TEJESH REDDY",
+  name: "TEJESH",
   profile: "/profile2.jpeg",
   designation: "Full-Stack Software Developer",
   description:
-    "My name is TEJESH REDDY THIPPAKKAGARI, and I am a passionate and dedicated programmer with a strong drive for learning and exploring new technologies. I am a quick learner with a self-motivated approach, always eager to solve challenging problems and create impactful solutions.",
+    "My name is TEJESH, and I am a passionate and dedicated programmer with a strong drive for learning and exploring new technologies. I am a quick learner with a self-motivated approach, always eager to solve challenging problems and create impactful solutions.",
   description2:
     "As a passionate and results-driven Full-Stack Product Engineer, I bring over two years of experience designing, developing, and deploying robust web and mobile applications. With a strong foundation in backend development, frontend innovation, and cloud integrations, I’ve delivered impactful projects ranging from food delivery platforms to blog applications. I'm open to full-time opportunities and internships where I can contribute my skills and grow professionally.",
   email: "tejeshreddy250@gmail.com",
