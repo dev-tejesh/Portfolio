@@ -1,6 +1,7 @@
 export const contactsData = {
-  email: "tejeshreddy250@gmail.com",
-  phone: "+17792171437",
+  email: "tejeshreddy184@gmail.com",
+  // phone: "+17792171437",
+  phone: "+12013777367",
   address: "Chicago IL, USA (Open to relocation)",
   github: "https://github.com/dev-tejesh",
   facebook: "https://www.facebook.com/",

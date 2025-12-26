@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Masters Degree",
-    duration: "August 2023 - May 2025",
+    duration: "",
     institution: "Northern Illinois University",
     gpa: "GPA: 3.74/4.0",
     image: "/png/niu_logo.png",
@@ -10,7 +10,7 @@ export const educations = [
   {
     id: 2,
     title: "Bachelors Degree",
-    duration: "2019 - 2023",
+    duration: "",
     institution: "Sree Vidyanikethan Engineering College",
     gpa: "CGPA: 8.46/10",
     image: "/png/btech_logo.png",
