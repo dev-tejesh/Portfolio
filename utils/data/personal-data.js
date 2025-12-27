@@ -18,6 +18,6 @@ export const personalData = {
   // stackOverflow: "https://stackoverflow.com/users/29148012/neha-nooka",
   leetcode: "https://leetcode.com/u/devtejesh/",
   devUsername: "tejesh",
-  resume:
-    "https://drive.google.com/file/d/1GVHKAxd0Oc3PW8PwwLsEJGnKcyGL-bPc/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1nWYhI4ocPwchn-zZhP_W43UVDneKYopd/view?usp=sharing",
+    // "https://drive.google.com/file/d/1GVHKAxd0Oc3PW8PwwLsEJGnKcyGL-bPc/view?usp=sharing",
 };
